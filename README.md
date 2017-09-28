@@ -25,7 +25,7 @@ Example mailerIds for Address API : 58-583-2808, 35-958-4207, 58-587-7382, 95-10
 
 # To Access API through cURL
 ```
-> curl -H 'X-Api-Key: TAHb4BcUUe4IZX8D9dFOb8D4vjRXk1195QhfqNXb' 'https://api-qa.fusion.pitneycloud.com/fusionapi/address?mailerId=32-153-5613'
+> curl -H 'X-Api-Key: TAHb4BcUUe4IZX8D9dFOb8D4vjRXk1195QhfqNXb' 'https://api-qa.fusion.pitneycloud.com/fusionapi/address?mailerId=95-106-6036'
 
-> curl -H 'X-Api-Key: TAHb4BcUUe4IZX8D9dFOb8D4vjRXk1195QhfqNXb' 'https://api-qa.fusion.pitneycloud.com/fusionapi/shipping?mailerId=40-843-4823'
+> curl -H 'X-Api-Key: TAHb4BcUUe4IZX8D9dFOb8D4vjRXk1195QhfqNXb' 'https://api-qa.fusion.pitneycloud.com/fusionapi/shipping?mailerId=26-450-8961'
 ```
